@@ -1,0 +1,15 @@
+{
+  "name": "genpark-autonomous-openapi-tool-generator-skill",
+  "version": "1.0.0",
+  "description": "OpenAPI 3.0 specification parser and Python tool class generator.",
+  "author": "GenPark AI",
+  "license": "Apache-2.0",
+  "dependencies": [],
+  "keywords": [
+    "openapi",
+    "tool-synthesis",
+    "api-generator",
+    "schema-validation",
+    "agentic-ai"
+  ]
+}
